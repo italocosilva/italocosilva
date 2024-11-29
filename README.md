@@ -2,7 +2,7 @@
 
 ## 📖 About me
 
-- 🧑‍🔬 I'm a **Lead Data Scientist** working for Itaú
+- 🧑‍🔬 I'm a **Lead Data Scientist** working for Nubank
 - 🔭 I work with **Credit Risk** for individuals
-- 🌱 I’m currently learning about **Recurrent Neural Networks**
+- 🌱 I’m currently learning about **Causal Inference**
 - 🗺️ I’m from **Brazil**
